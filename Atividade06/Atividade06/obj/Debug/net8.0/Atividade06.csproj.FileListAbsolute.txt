@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\bin\Debug\net8.0\Atividade06.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\bin\Debug\net8.0\Atividade06.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\bin\Debug\net8.0\Atividade06.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\bin\Debug\net8.0\Atividade06.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\bin\Debug\net8.0\Atividade06.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\obj\Debug\net8.0\Atividade06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\obj\Debug\net8.0\Atividade06.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\obj\Debug\net8.0\Atividade06.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\obj\Debug\net8.0\Atividade06.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\obj\Debug\net8.0\Atividade06.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\obj\Debug\net8.0\refint\Atividade06.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\obj\Debug\net8.0\Atividade06.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\obj\Debug\net8.0\Atividade06.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercícios parte04-herança\Atividade06\Atividade06\obj\Debug\net8.0\ref\Atividade06.dll
